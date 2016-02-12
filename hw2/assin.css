@@ -1,0 +1,11 @@
+#clock{
+
+   font-size:35px;
+   color:#00aaff;
+   text-shadow:2px 2px 2px blue;
+   border:3px groove blue;
+   background-color:#aaffaa; 
+   width:195px; 
+   height:40px;
+
+}
